@@ -1,20 +1,116 @@
 [
     {
         "id": 1,
-        "title": "الحلقة 1",
+        "title": "الحلقة 1 : جريمة قتل الأفعوانية",
         "isfiller": false,
-        "url": "https://www.google.com/"
+        "url": "https://streamtape.com/e/e4lW8QmlkDuY6v2/"
     },
     {
         "id": 2,
-        "title": "الحلقة 2",
+        "title": "الحلقة 2 : قضية اختطاف ابنة رئيس الشركة",
         "isfiller": false,
-        "url": "https://www.google.com/"
+        "url": "https://streamtape.com/e/34xkmJmBbqtdyem/"
     },
     {
         "id": 3,
-        "title": "الحلقة 3",
+        "title": "الحلقة 3 : جريمة قتل في غرفة الممثلة المقفلة",
+        "isfiller": false,
+        "url": "https://streamtape.com/e/9B8QYRZVpehaabz/"
+    },
+    {
+        "id": 4,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 5,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 6,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 7,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 8,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 9,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 10,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 11,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 12,
+        "title": "",
         "isfiller": true,
-        "url": "https://www.google.com/"
+        "url": ""
+    },
+    {
+        "id": 13,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 14,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 15,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 16,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 17,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 18,
+        "title": "",
+        "isfiller": false,
+        "url": ""
+    },
+    {
+        "id": 19,
+        "title": "",
+        "isfiller": false,
+        "url": ""
     }
 ]
